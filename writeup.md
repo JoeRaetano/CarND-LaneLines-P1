@@ -15,8 +15,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image2]: ./test_images/image2.jpg "image2.jpg"
-[image3]: ./test_images/image3.jpg "image3.jpg"
+[image2]: ./examples/image2.jpg "image2.jpg"
+[image3]: ./examples/image3.jpg "image3.jpg"
 
 
 ---
