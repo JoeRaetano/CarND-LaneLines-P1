@@ -15,13 +15,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
-[image2]: ./test_images/solidWhiteCurve.jpg "solidWhiteCurve.jpg"
-[image3]: ./test_images/solidWhiteRight.jpg"solidWhiteRight.jpg"
-[image4]: ./test_images/solidYellowCurve.jpg "solidYellowCurve.jpg"
-[image5]: ./test_images/solidYellowCurve2.jpg "solidYellowCurve2.jpg"
-[image6]: ./test_images/solidYellowLeft.jpg "solidYellowLeft.jpg"
-[image7]: ./test_images/whiteCarLaneSwitch.jpg "whiteCarLaneSwitch.jpg"
+[image2]: ./test_images/image2.jpg "image2.jpg"
+[image3]: ./test_images/image3.jpg "image3.jpg"
+
 
 ---
 
@@ -42,13 +38,9 @@ step 8: Run Hough on edge detected image
 
 output examples:
 
-![alt text][image1]
 ![alt text][image2]
 ![alt text][image3]
-![alt text][image4]
-![alt text][image5]
-![alt text][image6]
-![alt text][image7]
+
 
 
 ### 2. Identify potential shortcomings with your current pipeline
