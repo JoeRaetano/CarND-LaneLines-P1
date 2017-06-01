@@ -29,7 +29,7 @@ The goals / steps of this project are the following:
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-My pipeline consisted of 5 steps. 
+My pipeline consisted of 8 steps. 
 
 step 1: create constants so it's easier to test each variable and to make substantive changes 
 step 2: build image processing pipeline
